@@ -11,7 +11,7 @@
   "revocationList": "https://raw.githubusercontent.com/sreenivasmalae/seaside/refs/heads/main/revocation-list.json",
   "publicKey": [
     {
-      "id": "ecdsa-koblitz-pubkey:n2h5AGW1xtnSFeXNr6SCSwXty6kP42Pri4",
+      "id": "ecdsa-koblitz-pubkey:0x06FD61009D62fdab39E40b1AD7B9f6E5ACD6C7A8",
       "created": "2017-06-29T14:48:03.814936+00:00"
     }
   ],
