@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://demo2.human-logic.com/revocation-list.json",
+  "type": "RevocationList",
+  "issuer": "https://demo2.human-logic.com/emadaprofile.json",
+  "revokedAssertions": []
+}
