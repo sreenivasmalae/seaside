@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://demo2.human-logic.com/revocation-list.json",
+  "id": "https://raw.githubusercontent.com/sreenivasmalae/seaside/refs/heads/main/revocation-list.json",
   "type": "RevocationList",
-  "issuer": "https://demo2.human-logic.com/emadaprofile.json",
+  "issuer": "https://raw.githubusercontent.com/sreenivasmalae/seaside/refs/heads/main/emadaprofile.json",
   "revokedAssertions": []
 }
