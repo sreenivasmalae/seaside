@@ -9,7 +9,7 @@
   "name": "Emada Academy",
   "url": "https://www.emada.com/",
   "introductionURL": "https://pcmvhgzsdifhdciacide.supabase.co/functions/v1/store-wallet-address",
-  "revocationList": "https://demo2.human-logic.com/revocation-list.json",
+  "revocationList": "https://raw.githubusercontent.com/sreenivasmalae/seaside/refs/heads/main/revocation-list.json",
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x06FD61009D62fdab39E40b1AD7B9f6E5ACD6C7A8",
