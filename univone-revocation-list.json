@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://raw.githubusercontent.com/sreenivasmalae/seaside/refs/heads/main/univone-revocation-list.json",
+  "type": "RevocationList",
+  "issuer": "https://raw.githubusercontent.com/sreenivasmalae/seaside/refs/heads/main/univone.json",
+  "revokedAssertions": []
+}
